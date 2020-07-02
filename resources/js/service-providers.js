@@ -1,0 +1,7 @@
+require('@Service/vuex')
+require('@Service/vuesax')
+require('@Service/i18n')
+// require('@Service/router')
+// require('@Service/events')
+// require('@Service/filters')
+// require('@Service/directives')
